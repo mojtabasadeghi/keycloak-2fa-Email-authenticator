@@ -1,0 +1,9 @@
+.idea
+*.iml
+config
+target
+copy.sh
+dependency-reduced-pom.xml
+
+# Project exclude paths
+/${project.build.directory}/classes/
